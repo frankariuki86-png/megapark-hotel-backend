@@ -1,0 +1,29 @@
+[
+  {
+    "id": "user-1771706559625",
+    "email": "testuser@megapark.com",
+    "passwordHash": "$2b$10$AzVrY./JLvV.zFGNGHfv7.DrHx88OiSb4tB.09FprtggUuTPdfPOG",
+    "name": "Test User",
+    "phone": "+254712345678",
+    "role": "customer",
+    "createdAt": "2026-02-21T20:42:39.626Z"
+  },
+  {
+    "id": "user-1771805380121",
+    "email": "testuser1@megapark.com",
+    "passwordHash": "$2b$10$cT0DDrWplF92F4lrzPW35u6qVFq/6BPeQfptfsCIg/KqBP97WKPA.",
+    "name": "Test User",
+    "phone": null,
+    "role": "customer",
+    "createdAt": "2026-02-23T00:09:40.121Z"
+  },
+  {
+    "id": "admin-test-001",
+    "email": "admintest@megapark.com",
+    "passwordHash": "$2b$10$aryf7dXWvsBIQOl0ZuitVe31jz6BNk/Czrz.CXryGE2Nu0jJvuWKC",
+    "name": "Admin Test",
+    "phone": null,
+    "role": "admin",
+    "createdAt": "2026-02-23T03:11:31.762Z"
+  }
+]
